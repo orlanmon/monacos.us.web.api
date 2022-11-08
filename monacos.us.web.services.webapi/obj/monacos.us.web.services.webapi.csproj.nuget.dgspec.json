@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.webapi\\monacos.us.web.services.webapi.csproj": {}
+  },
+  "projects": {
+    "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dal\\monacos.us.web.services.dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dal\\monacos.us.web.services.dal.csproj",
+        "projectName": "monacos.us.web.services.dal",
+        "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dal\\monacos.us.web.services.dal.csproj",
+        "packagesPath": "C:\\Users\\monac\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\monac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\monacos.us.web.services.model.csproj": {
+                "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\monacos.us.web.services.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dto\\monacos.us.web.services.dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dto\\monacos.us.web.services.dto.csproj",
+        "projectName": "monacos.us.web.services.dto",
+        "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dto\\monacos.us.web.services.dto.csproj",
+        "packagesPath": "C:\\Users\\monac\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\monac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dal\\monacos.us.web.services.dal.csproj": {
+                "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dal\\monacos.us.web.services.dal.csproj"
+              },
+              "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\monacos.us.web.services.model.csproj": {
+                "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\monacos.us.web.services.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\monacos.us.web.services.model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\monacos.us.web.services.model.csproj",
+        "projectName": "monacos.us.web.services.model",
+        "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\monacos.us.web.services.model.csproj",
+        "packagesPath": "C:\\Users\\monac\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\monac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.webapi\\monacos.us.web.services.webapi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.webapi\\monacos.us.web.services.webapi.csproj",
+        "projectName": "monacos.us.web.services.webapi",
+        "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.webapi\\monacos.us.web.services.webapi.csproj",
+        "packagesPath": "C:\\Users\\monac\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.webapi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\monac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dal\\monacos.us.web.services.dal.csproj": {
+                "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dal\\monacos.us.web.services.dal.csproj"
+              },
+              "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dto\\monacos.us.web.services.dto.csproj": {
+                "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.dto\\monacos.us.web.services.dto.csproj"
+              },
+              "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\monacos.us.web.services.model.csproj": {
+                "projectPath": "D:\\Software Development\\Projects\\monacos.us.web\\ms.net\\monacos.us.web\\monacos.us.web.services.model\\monacos.us.web.services.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

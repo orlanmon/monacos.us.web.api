@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\monacos.us.web.services.dal\monacos.us.web.services.dal.csproj" />
+    <ProjectReference Include="..\monacos.us.web.services.dto\monacos.us.web.services.dto.csproj" />
+    <ProjectReference Include="..\monacos.us.web.services.model\monacos.us.web.services.model.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,15 @@
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\bin\Debug\net5.0\monacos.us.web.services.model.deps.json
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\bin\Debug\net5.0\monacos.us.web.services.model.runtimeconfig.json
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\bin\Debug\net5.0\monacos.us.web.services.model.runtimeconfig.dev.json
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\bin\Debug\net5.0\monacos.us.web.services.model.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\bin\Debug\net5.0\ref\monacos.us.web.services.model.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\bin\Debug\net5.0\monacos.us.web.services.model.pdb
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\obj\Debug\net5.0\monacos.us.web.services.model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\obj\Debug\net5.0\monacos.us.web.services.model.AssemblyInfoInputs.cache
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\obj\Debug\net5.0\monacos.us.web.services.model.AssemblyInfo.cs
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\obj\Debug\net5.0\monacos.us.web.services.model.csproj.CoreCompileInputs.cache
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\obj\Debug\net5.0\monacos.us.web.services.model.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\obj\Debug\net5.0\ref\monacos.us.web.services.model.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\obj\Debug\net5.0\monacos.us.web.services.model.pdb
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\obj\Debug\net5.0\monacos.us.web.services.model.genruntimeconfig.cache
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.model\obj\Debug\net5.0\monacos.us.web.services.model.csproj.AssemblyReference.cache
