@@ -1,0 +1,15 @@
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\bin\Debug\net5.0\monacos.us.web.services.dal.deps.json
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\bin\Debug\net5.0\monacos.us.web.services.dal.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\bin\Debug\net5.0\ref\monacos.us.web.services.dal.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\bin\Debug\net5.0\monacos.us.web.services.dal.pdb
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\bin\Debug\net5.0\monacos.us.web.services.model.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\bin\Debug\net5.0\monacos.us.web.services.model.pdb
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\obj\Debug\net5.0\monacos.us.web.services.dal.csproj.AssemblyReference.cache
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\obj\Debug\net5.0\monacos.us.web.services.dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\obj\Debug\net5.0\monacos.us.web.services.dal.AssemblyInfoInputs.cache
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\obj\Debug\net5.0\monacos.us.web.services.dal.AssemblyInfo.cs
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\obj\Debug\net5.0\monacos.us.web.services.dal.csproj.CoreCompileInputs.cache
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\obj\Debug\net5.0\monacos.us.web.services.dal.csproj.CopyComplete
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\obj\Debug\net5.0\monacos.us.web.services.dal.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\obj\Debug\net5.0\ref\monacos.us.web.services.dal.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dal\obj\Debug\net5.0\monacos.us.web.services.dal.pdb

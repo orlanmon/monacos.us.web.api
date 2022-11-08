@@ -1,0 +1,17 @@
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\bin\Debug\net5.0\monacos.us.web.services.dto.deps.json
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\bin\Debug\net5.0\monacos.us.web.services.dto.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\bin\Debug\net5.0\ref\monacos.us.web.services.dto.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\bin\Debug\net5.0\monacos.us.web.services.dto.pdb
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\bin\Debug\net5.0\monacos.us.web.services.dal.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\bin\Debug\net5.0\monacos.us.web.services.model.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\bin\Debug\net5.0\monacos.us.web.services.dal.pdb
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\bin\Debug\net5.0\monacos.us.web.services.model.pdb
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\obj\Debug\net5.0\monacos.us.web.services.dto.csproj.AssemblyReference.cache
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\obj\Debug\net5.0\monacos.us.web.services.dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\obj\Debug\net5.0\monacos.us.web.services.dto.AssemblyInfoInputs.cache
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\obj\Debug\net5.0\monacos.us.web.services.dto.AssemblyInfo.cs
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\obj\Debug\net5.0\monacos.us.web.services.dto.csproj.CoreCompileInputs.cache
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\obj\Debug\net5.0\monacos.us.web.services.dto.csproj.CopyComplete
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\obj\Debug\net5.0\monacos.us.web.services.dto.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\obj\Debug\net5.0\ref\monacos.us.web.services.dto.dll
+D:\Software Development\Projects\monacos.us.web\ms.net\monacos.us.web\monacos.us.web.services.dto\obj\Debug\net5.0\monacos.us.web.services.dto.pdb
