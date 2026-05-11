@@ -332,8 +332,6 @@ Microsoft.Extensions.Options
 
 
 
-
-
 https://medium.com/@brucycenteio/adding-serilog-to-asp-net-core-net-7-8-5cba1d0dea2
 
 
