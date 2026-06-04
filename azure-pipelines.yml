@@ -40,7 +40,8 @@ steps:
     appType: 'webApp'
     WebAppName: 'MonacosUsWebAPI'
     deployToSlotOrASE: true
-    ResourceGroupName: 'MonacosUsWebAPI_group'
+    ResourceGroupName: 'monacosenterprise'
     SlotName: 'production'
     packageForLinux: '$(build.artifactStagingDirectory)\WebApp.zip'
+    
 
